@@ -1,0 +1,5 @@
+numpy==1.16.*
+matplotlib==3.*
+seaborn==0.9.0
+SPARQLWrapper==1.8.4
+pandas
